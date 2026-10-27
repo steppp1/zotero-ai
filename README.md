@@ -1,6 +1,6 @@
 # AI Assistant (Markdown) for Zotero
 
-A Zotero 7 plugin that adds an AI chat assistant to the item pane. Ask questions about a paper and get answers rendered as **Markdown** with **LaTeX math**.
+AI chat assistant for Zotero with Markdown and LaTeX (KaTeX) math rendering.
 
 ## Supported
 
