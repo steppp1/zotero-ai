@@ -1,0 +1,3 @@
+ai-assistant-startup-begin = AI Assistant Loading...
+ai-assistant-startup-finish = AI Assistant Ready
+ai-assistant-prefs-title = AI Assistant

@@ -1,0 +1,10 @@
+ai-assistant-pref-title = AI 助手
+ai-assistant-pref-enable =
+    .label = 开启
+ai-assistant-pref-apiUrl = API 地址
+ai-assistant-pref-apiKey = API 密钥
+ai-assistant-pref-model = 模型名称
+ai-assistant-pref-prompt-translate = 翻译提示词
+ai-assistant-pref-prompt-explain = 解读提示词
+ai-assistant-pref-fullTextLimit = 全文读取限制 (字符数)
+ai-assistant-pref-help = { $name } Build { $version } { $time }

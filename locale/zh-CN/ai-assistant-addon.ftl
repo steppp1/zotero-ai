@@ -1,0 +1,3 @@
+ai-assistant-startup-begin = AI 助手加载中...
+ai-assistant-startup-finish = AI 助手就绪
+ai-assistant-prefs-title = AI 助手

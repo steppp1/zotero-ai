@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "AI Assistant (Markdown)",
+  "version": "1.0.8",
+  "description": "AI chat assistant for Zotero with Markdown and LaTeX/KaTeX math rendering.",
+  "homepage_url": "https://github.com/steppp1/zotero-ai#readme",
+  "author": "jetxa",
+  "icons": {
+    "48": "content/icons/robot.svg",
+    "96": "content/icons/robot.svg"
+  },
+  "applications": {
+    "zotero": {
+      "id": "zotero-ai-assistant-improved@steppp1.github.io",
+      "strict_min_version": "6.999",
+      "strict_max_version": "10.*"
+    }
+  }
+}

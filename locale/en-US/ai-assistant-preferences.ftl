@@ -1,0 +1,10 @@
+ai-assistant-pref-title = AI Assistant
+ai-assistant-pref-enable =
+    .label = Enable
+ai-assistant-pref-apiUrl = API URL
+ai-assistant-pref-apiKey = API Key
+ai-assistant-pref-model = Model Name
+ai-assistant-pref-prompt-translate = Translate Prompt
+ai-assistant-pref-prompt-explain = Explain Prompt
+ai-assistant-pref-fullTextLimit = Full Text Limit (Chars)
+ai-assistant-pref-help = { $name } Build { $version } { $time }
